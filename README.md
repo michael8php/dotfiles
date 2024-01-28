@@ -10,7 +10,7 @@ The script simply send an SMS message from PHP this can be used for example to s
 
 All you need to do is:
 
-1- change API Key and API Base URL. to authenticate with twillio you need the account SID and an auth token.
+1- to authenticate with Infobip you need to change API Key and API Base URL. to authenticate with twillio you need the account SID and an auth token.
 
 2- change from: "daveh".
 
